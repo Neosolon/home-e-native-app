@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-homeenativeapp-dev-164716-authRole",
+      "UnauthRoleArn": "arn:aws:iam::760393344525:role/amplify-homeenativeapp-dev-164716-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::760393344525:role/amplify-homeenativeapp-dev-164716-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-homeenativeapp-dev-164716-deployment",
+      "UnauthRoleName": "amplify-homeenativeapp-dev-164716-unauthRole",
+      "StackName": "amplify-homeenativeapp-dev-164716",
+      "StackId": "arn:aws:cloudformation:us-west-2:760393344525:stack/amplify-homeenativeapp-dev-164716/2af8f7e0-8fb7-11ed-884b-0ae6845d6e49",
+      "AmplifyAppId": "dwpdf2kkhx3l2"
+    }
+  }
+}
